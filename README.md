@@ -13,7 +13,6 @@
 
 - ⚡ Fun fact **My Friends say im a ambisious boy**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
