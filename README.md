@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Charles</h1>
-<h3 align="left">A Junior Frontend Developer From Indonesia</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chaarleesss&label=Profile%20views&color=0e75b6&style=flat" alt="chaarleesss" /> </p>
 
@@ -8,15 +8,7 @@
 ![giphy](https://github.com/Chaarleesss/Chaarleesss/assets/95111487/1070f156-32d4-4796-a16f-3f2ec7107138)
 
 
-- 🔭 I’m currently working on **Bank Landing Page**
 
-- 🌱 I’m currently learning **React JS**
-
-- 💬 Ask me about **HTML CSS**
-
-- 📫 How to reach me **charlesandriansyah104@gmail.com**
-
-- ⚡ Fun fact **My Friends say im a ambisious boy**
 
 <p align="left">
 </p>
